@@ -1,4 +1,4 @@
 # hello-world
 This is my first repository
-I have a an M.Sc. in computer science
 
+I have a an M.Sc. in computer science
